@@ -1,0 +1,97 @@
+@charset "utf-8";
+
+hr {
+  margin: 35px 0px 5px 0px;
+}
+
+#footer {
+  background-size: 100% 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .row {
+    display: block;
+  }
+}
+
+.table {
+  margin-bottom: 2rem;
+}
+
+thead {
+  background-color: #f8f8fc;
+  border-color: #f0f0ee;
+}
+
+.link-btn {
+  display: block;
+  width: 80%;
+  max-width: 400px;
+  line-height: 2;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.sort-box,
+.btn-search {
+  margin: 0 0 0 auto;
+  padding-left: 10px;
+  display: block;
+}
+
+.product-caption {
+  margin: 50px 0px 20px 8px;
+}
+
+.search-box {
+  margin-top: 45px;
+  border: 1px solid #ddd;
+  font-size: 15px;
+  padding: 13px;
+}
+
+.search-box div {
+  margin-bottom: 0px;
+  /* max-height: 27px; */
+}
+
+.search-box div input,
+.search-box div select {
+  margin-left: 8px;
+  margin-right: 4px;
+}
+
+.search-box div .col-md-2 {
+  font-weight: bold;
+}
+
+.btn-search {
+  width: 140px;
+  margin: 0 auto;
+  border-radius: 25px;
+  text-decoration: none;
+  color: #fff;
+  background-image: linear-gradient(45deg, #aaa 0%, #777 100%);
+  transition: 0.4s;
+}
+
+.btn-search:hover {
+  background-image: linear-gradient(45deg, #ccc 0%, #aaa 100%);
+}
+
+.link-top {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#copyright {
+  text-align: center;
+}
+
+.product-caption + img {
+  max-width: 320px;
+  padding: 18px;
+}

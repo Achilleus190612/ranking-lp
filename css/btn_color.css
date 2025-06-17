@@ -1,0 +1,377 @@
+@charset "utf-8";
+
+.link01_sp_btn .red {
+  border-radius: 8px; /* CSS3草案 */
+  -webkit-border-radius: 8px; /* Safari,Google Chrome用 */
+  -moz-border-radius: 8px;
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 3px 1px #666;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #ff0001),
+    color-stop(1, #8f0202)
+  );
+  background: -webkit-linear-gradient(#ff0001, #8f0202);
+  background: -moz-linear-gradient(#ff0001, #8f0202);
+  background: -o-linear-gradient(#ff0001, #8f0202);
+  background: -ms-linear-gradient(#ff0001, #8f0202);
+  background: linear-gradient(#ff0001, #8f0202);
+}
+.link01_btn .red {
+  border-radius: 8px; /* CSS3草案 */
+  -webkit-border-radius: 8px; /* Safari,Google Chrome用 */
+  -moz-border-radius: 8px;
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 3px 1px #666;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #ff0001),
+    color-stop(1, #8f0202)
+  );
+  background: -webkit-linear-gradient(#ff0001, #8f0202);
+  background: -moz-linear-gradient(#ff0001, #8f0202);
+  background: -o-linear-gradient(#ff0001, #8f0202);
+  background: -ms-linear-gradient(#ff0001, #8f0202);
+  background: linear-gradient(#ff0001, #8f0202);
+}
+
+.link01_sp_btn .green {
+  border-radius: 8px; /* CSS3草案 */
+  -webkit-border-radius: 8px; /* Safari,Google Chrome用 */
+  -moz-border-radius: 8px;
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 3px 1px #666;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #09c300),
+    color-stop(1, #004c15)
+  );
+  background: -webkit-linear-gradient(#09c300, #004c15);
+  background: -moz-linear-gradient(#09c300, #004c15);
+  background: -o-linear-gradient(#09c300, #004c15);
+  background: -ms-linear-gradient(#09c300, #004c15);
+  background: linear-gradient(#09c300, #004c15);
+}
+.link01_btn .green {
+  border-radius: 8px; /* CSS3草案 */
+  -webkit-border-radius: 8px; /* Safari,Google Chrome用 */
+  -moz-border-radius: 8px;
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 3px 1px #666;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #09c300),
+    color-stop(1, #004c15)
+  );
+  background: -webkit-linear-gradient(#09c300, #004c15);
+  background: -moz-linear-gradient(#09c300, #004c15);
+  background: -o-linear-gradient(#09c300, #004c15);
+  background: -ms-linear-gradient(#09c300, #004c15);
+  background: linear-gradient(#09c300, #004c15);
+}
+
+.link01_sp_btn .blue {
+  border-radius: 8px; /* CSS3草案 */
+  -webkit-border-radius: 8px; /* Safari,Google Chrome用 */
+  -moz-border-radius: 8px;
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 3px 1px #666;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #2476ff),
+    color-stop(1, #001ca8)
+  );
+  background: -webkit-linear-gradient(#2476ff, #001ca8);
+  background: -moz-linear-gradient(#2476ff, #001ca8);
+  background: -o-linear-gradient(#2476ff, #001ca8);
+  background: -ms-linear-gradient(#2476ff, #001ca8);
+  background: linear-gradient(#2476ff, #001ca8);
+}
+.link01_sp_btn .gray {
+  border-radius: 8px; /* CSS3草案 */
+  -webkit-border-radius: 8px; /* Safari,Google Chrome用 */
+  -moz-border-radius: 8px;
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 3px 1px #666;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #989898),
+    color-stop(1, #272727)
+  );
+  background: -webkit-linear-gradient(#989898, #272727);
+  background: -moz-linear-gradient(#989898, #272727);
+  background: -o-linear-gradient(#989898, #272727);
+  background: -ms-linear-gradient(#989898, #272727);
+  background: linear-gradient(#989898, #272727);
+}
+.link01_sp_btn .orange {
+  border-radius: 8px; /* CSS3草案 */
+  -webkit-border-radius: 8px; /* Safari,Google Chrome用 */
+  -moz-border-radius: 8px;
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 3px 1px #666;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #ffa443),
+    color-stop(1, #ff7400)
+  );
+  background: -webkit-linear-gradient(#ffa443, #ff7400);
+  background: -moz-linear-gradient(#ffa443, #ff7400);
+  background: -o-linear-gradient(#ffa443, #ff7400);
+  background: -ms-linear-gradient(#ffa443, #ff7400);
+  background: linear-gradient(#ffa443, #ff7400);
+}
+.link01_sp_btn .pink {
+  border-radius: 8px; /* CSS3草案 */
+  -webkit-border-radius: 8px; /* Safari,Google Chrome用 */
+  -moz-border-radius: 8px;
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 3px 1px #666;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #ff5db1),
+    color-stop(1, #ef007c)
+  );
+  background: -webkit-linear-gradient(#ff5db1, #ef007c);
+  background: -moz-linear-gradient(#ff5db1, #ef007c);
+  background: -o-linear-gradient(#ff5db1, #ef007c);
+  background: -ms-linear-gradient(#ff5db1, #ef007c);
+  background: linear-gradient(#ff5db1, #ef007c);
+}
+.link01_sp_btn .beju {
+  border-radius: 8px; /* CSS3草案 */
+  -webkit-border-radius: 8px; /* Safari,Google Chrome用 */
+  -moz-border-radius: 8px;
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 3px 1px #666;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #f4e3c9),
+    color-stop(0.5, #c19e66),
+    color-stop(0.5, #b68d4c),
+    color-stop(1, #f6e7cf)
+  );
+  background: -webkit-linear-gradient(
+    top,
+    #f4e3c9 0%,
+    #c19e66 50%,
+    #b68d4c 50%,
+    #f6e7cf 100%
+  );
+  background: -moz-linear-gradient(
+    top,
+    #f4e3c9 0%,
+    #c19e66 50%,
+    #b68d4c 50%,
+    #f6e7cf 100%
+  );
+  background: -o-linear-gradient(
+    top,
+    #f4e3c9 0%,
+    #c19e66 50%,
+    #b68d4c 50%,
+    #f6e7cf 100%
+  );
+  background: -ms-linear-gradient(
+    top,
+    #f4e3c9 0%,
+    #c19e66 50%,
+    #b68d4c 50%,
+    #f6e7cf 100%
+  );
+  background: linear-gradient(
+    to bottom,
+    #f4e3c9 0%,
+    #c19e66 50%,
+    #b68d4c 50%,
+    #f6e7cf 100%
+  );
+}
+
+.link01_btn .blue {
+  border-radius: 8px; /* CSS3草案 */
+  -webkit-border-radius: 8px; /* Safari,Google Chrome用 */
+  -moz-border-radius: 8px;
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 3px 1px #666;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #2476ff),
+    color-stop(1, #001ca8)
+  );
+  background: -webkit-linear-gradient(#2476ff, #001ca8);
+  background: -moz-linear-gradient(#2476ff, #001ca8);
+  background: -o-linear-gradient(#2476ff, #001ca8);
+  background: -ms-linear-gradient(#2476ff, #001ca8);
+  background: linear-gradient(#2476ff, #001ca8);
+}
+.link01_btn .gray {
+  border-radius: 8px; /* CSS3草案 */
+  -webkit-border-radius: 8px; /* Safari,Google Chrome用 */
+  -moz-border-radius: 8px;
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 3px 1px #666;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #989898),
+    color-stop(1, #272727)
+  );
+  background: -webkit-linear-gradient(#989898, #272727);
+  background: -moz-linear-gradient(#989898, #272727);
+  background: -o-linear-gradient(#989898, #272727);
+  background: -ms-linear-gradient(#989898, #272727);
+  background: linear-gradient(#989898, #272727);
+}
+.link01_btn .orange {
+  border-radius: 8px; /* CSS3草案 */
+  -webkit-border-radius: 8px; /* Safari,Google Chrome用 */
+  -moz-border-radius: 8px;
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 3px 1px #666;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #ffa443),
+    color-stop(1, #ff7400)
+  );
+  background: -webkit-linear-gradient(#ffa443, #ff7400);
+  background: -moz-linear-gradient(#ffa443, #ff7400);
+  background: -o-linear-gradient(#ffa443, #ff7400);
+  background: -ms-linear-gradient(#ffa443, #ff7400);
+  background: linear-gradient(#ffa443, #ff7400);
+}
+.link01_btn .pink {
+  border-radius: 8px; /* CSS3草案 */
+  -webkit-border-radius: 8px; /* Safari,Google Chrome用 */
+  -moz-border-radius: 8px;
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 3px 1px #666;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #ff5db1),
+    color-stop(1, #ef007c)
+  );
+  background: -webkit-linear-gradient(#ff5db1, #ef007c);
+  background: -moz-linear-gradient(#ff5db1, #ef007c);
+  background: -o-linear-gradient(#ff5db1, #ef007c);
+  background: -ms-linear-gradient(#ff5db1, #ef007c);
+  background: linear-gradient(#ff5db1, #ef007c);
+}
+.link01_btn .beju {
+  border-radius: 8px; /* CSS3草案 */
+  -webkit-border-radius: 8px; /* Safari,Google Chrome用 */
+  -moz-border-radius: 8px;
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 3px 1px #666;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #f4e3c9),
+    color-stop(0.5, #c19e66),
+    color-stop(0.5, #b68d4c),
+    color-stop(1, #f6e7cf)
+  );
+  background: -webkit-linear-gradient(
+    top,
+    #f4e3c9 0%,
+    #c19e66 50%,
+    #b68d4c 50%,
+    #f6e7cf 100%
+  );
+  background: -moz-linear-gradient(
+    top,
+    #f4e3c9 0%,
+    #c19e66 50%,
+    #b68d4c 50%,
+    #f6e7cf 100%
+  );
+  background: -o-linear-gradient(
+    top,
+    #f4e3c9 0%,
+    #c19e66 50%,
+    #b68d4c 50%,
+    #f6e7cf 100%
+  );
+  background: -ms-linear-gradient(
+    top,
+    #f4e3c9 0%,
+    #c19e66 50%,
+    #b68d4c 50%,
+    #f6e7cf 100%
+  );
+  background: linear-gradient(
+    to bottom,
+    #f4e3c9 0%,
+    #c19e66 50%,
+    #b68d4c 50%,
+    #f6e7cf 100%
+  );
+}
+
+.table_btn .red {
+  border-radius: 6px; /* CSS3草案 */
+  background: #ff0001;
+  padding: 0.4rem 0;
+}
+
+.table_btn .beju {
+  border-radius: 6px; /* CSS3草案 */
+  background: #f4e3c9;
+  padding: 0.4rem 0;
+}
+
+.table_btn .pink {
+  border-radius: 6px; /* CSS3草案 */
+  background: #ff5db1;
+  padding: 0.4rem 0;
+}
+
+.table_btn .orange {
+  border-radius: 6px; /* CSS3草案 */
+  background: #ffa443;
+  padding: 0.4rem 0;
+}
+
+.table_btn .gray {
+  border-radius: 6px; /* CSS3草案 */
+  background: #989898;
+  padding: 0.4rem 0;
+}
+
+.table_btn .blue {
+  border-radius: 6px; /* CSS3草案 */
+  background: #2476ff;
+  padding: 0.4rem 0;
+}
+
+.table_btn .green {
+  border-radius: 6px; /* CSS3草案 */
+  background: #09c300;
+  padding: 0.4rem 0;
+}
